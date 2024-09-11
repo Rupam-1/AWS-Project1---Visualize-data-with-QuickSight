@@ -12,6 +12,7 @@ Here's the game plan that i will followup to dashboard complete! In this project
 
 📊 Create a variety graphs, charts and analysis using QuickSight.
 
-🏆 Publish a dashboard full of insights into our dataset!
+🏆 Publish a dashboard full of insights into our dataset.
 
+![architecture-diagram](https://github.com/user-attachments/assets/8a0df195-0a4b-4d78-a806-b8167cae5ded)
 
