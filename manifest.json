@@ -1,3 +1,8 @@
+# This json file directs Quicksight to use the correct path of data to be visualized from S3
+# S3 bucket name => quicksight-project-rupam
+# Json file => netflix_titles.csv
+
+
 {
    "fileLocations": [
        {
