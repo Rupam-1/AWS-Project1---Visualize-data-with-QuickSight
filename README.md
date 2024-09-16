@@ -5,8 +5,8 @@ Amazon QuickSight helps us to analyse data and create visualisations easily. Tod
 Contents:
 
 1. [Documentation of the steps followed with relevant screenshots](https://github.com/Rupam-1/AWS-Project1---Visualize-data-with-QuickSight/blob/24c09fc0bc1985e338430b9da5123af543f3fe62/Documentation%20of%20the%20steps%20followed%20with%20relevant%20screenshots.pdf)
-3. [manifest.json](#manifest.json)
-4. [netflix_titles.csv](#netflix_titles.csv)
+3. [manifest.json](https://github.com/Rupam-1/AWS-Project1---Visualize-data-with-QuickSight/blob/main/manifest.json)
+4. [netflix_titles.csv](https://github.com/Rupam-1/AWS-Project1---Visualize-data-with-QuickSight/blob/main/netflix_titles.csv)
 
 
 Here's the game plan that i will followup to dashboard complete! In this project, we will:
