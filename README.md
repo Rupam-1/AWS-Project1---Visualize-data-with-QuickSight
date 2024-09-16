@@ -16,7 +16,12 @@ Here's the game plan that i will followup to dashboard complete! In this project
 
 ![architecture-diagram](https://github.com/user-attachments/assets/8a0df195-0a4b-4d78-a806-b8167cae5ded)
 
-Attached documentation of full described steps with relevant screenshots above. 
 
+I have cleared all the resources used in this project to avoid any pricing alerts. 
+    1. Terminated Quicksight account
+    2. Deleted S3 bucket
+
+Attached documentation of full described steps with relevant screenshots above.
+   
 Thanks for reading this project. 
 Wishing a great day ahead...
