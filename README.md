@@ -2,6 +2,13 @@
 
 Amazon QuickSight helps us to analyse data and create visualisations easily. Today we're going to analyse a huge dataset of Netflix shows and movies to create a dashboard that extracts all the juicy insights.
 
+Contents:
+
+1. [Documentation of the steps followed with relevant screenshots](https://github.com/Rupam-1/AWS-Project1---Visualize-data-with-QuickSight/blob/24c09fc0bc1985e338430b9da5123af543f3fe62/Documentation%20of%20the%20steps%20followed%20with%20relevant%20screenshots.pdf)
+3. [manifest.json](#manifest.json)
+4. [netflix_titles.csv](#netflix_titles.csv)
+
+
 Here's the game plan that i will followup to dashboard complete! In this project, we will:
 
 🪣 Upload a dataset into an S3 bucket.
@@ -28,8 +35,6 @@ I have cleared all the resources used in this project to avoid any pricing alert
     2. Deleted S3 bucket
 
 Attached documentation of full described steps with relevant screenshots above.
-
-[AWS-Project1---Visualize-data-with-QuickSight/Documentation of the steps followed with relevant screenshots.pdf](#documentation-of-the-steps-followed-with-relevant-screenshots)
    
 Thanks for reading this project. 
 Wishing a great day ahead...
