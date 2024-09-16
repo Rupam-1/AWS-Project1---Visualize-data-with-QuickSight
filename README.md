@@ -7,7 +7,7 @@
 
 Welcome to the AWS-Project1 repository! This project demonstrates how to use Amazon QuickSight to analyze and visualize data effectively. We'll be working with a substantial dataset of Netflix shows and movies to build a dashboard that uncovers valuable insights.
 
-## Contents:
+## Contents
 
 1. [Project detailed document](https://github.com/Rupam-1/AWS-Project1---Visualize-data-with-QuickSight/blob/24c09fc0bc1985e338430b9da5123af543f3fe62/Documentation%20of%20the%20steps%20followed%20with%20relevant%20screenshots.pdf)
 3. [manifest.json](https://github.com/Rupam-1/AWS-Project1---Visualize-data-with-QuickSight/blob/main/manifest.json)
