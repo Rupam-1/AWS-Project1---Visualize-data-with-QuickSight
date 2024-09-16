@@ -11,6 +11,10 @@ Here's the game plan that i will followup to dashboard complete! In this project
 🔗 Connect our dataset (in the S3 bucket) to Amazon QuickSight.
     
 📊 Create a variety graphs, charts and analysis using QuickSight.
+
+        1. Visualise a catalogue of TV/movies by release year, list category and added date.
+    
+        2. Experiment with different visualisation styles - for example, donut, table or bar graphs.
     
 🏆 Publish a dashboard full of insights into our dataset!
 
