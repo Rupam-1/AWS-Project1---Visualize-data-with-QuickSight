@@ -28,6 +28,8 @@ I have cleared all the resources used in this project to avoid any pricing alert
     2. Deleted S3 bucket
 
 Attached documentation of full described steps with relevant screenshots above.
+
+[Documentation of the steps followed with relevant screenshots.pdf](#documentation-of-the-steps-followed-with-relevant-screenshots)
    
 Thanks for reading this project. 
 Wishing a great day ahead...
