@@ -29,7 +29,7 @@ I have cleared all the resources used in this project to avoid any pricing alert
 
 Attached documentation of full described steps with relevant screenshots above.
 
-[Documentation of the steps followed with relevant screenshots.pdf](#documentation-of-the-steps-followed-with-relevant-screenshots)
+[AWS-Project1---Visualize-data-with-QuickSight/Documentation of the steps followed with relevant screenshots.pdf](#documentation-of-the-steps-followed-with-relevant-screenshots)
    
 Thanks for reading this project. 
 Wishing a great day ahead...
