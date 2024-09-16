@@ -18,7 +18,9 @@ Here's the game plan that i will followup to dashboard complete! In this project
 
 
 I have cleared all the resources used in this project to avoid any pricing alerts. 
+  
     1. Terminated Quicksight account
+    
     2. Deleted S3 bucket
 
 Attached documentation of full described steps with relevant screenshots above.
