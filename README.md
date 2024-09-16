@@ -5,7 +5,7 @@
   </a>
 </p>
 
->This repository provides insights into using Amazon QuickSight to analyze data and create visualizations easily. In this project, we will be working with a large dataset of Netflix shows and movies to build a dashboard that extracts and presents all the juicy insights.
+Welcome to the AWS-Project1 repository! This project demonstrates how to use Amazon QuickSight to analyze and visualize data effectively. We'll be working with a substantial dataset of Netflix shows and movies to build a dashboard that uncovers valuable insights.
 
 ## Contents:
 
@@ -21,33 +21,42 @@
 - **Outcome**: Create a dashboard to visualize and extract meaningful insights from the data.
 
 
+## Project Plan
+
 Here's the game plan that i will followup to dashboard complete! In this project, we will do the following :
 
- - 🪣 Upload a dataset into an S3 bucket.
+- 🪣 **Upload** the dataset into an S3 bucket.
+  
+- 🆕 **Create** an Amazon QuickSight account.
+  
+- 🔗 **Connect** the dataset (from the S3 bucket) to Amazon QuickSight.
+  
+- 📊 **Visualize** the data:
+  
+  - Create graphs and charts to explore TV/movies by release year, category, and added date.
     
- - 🆕 Create an account on Amazon QuickSight.
+  - Experiment with various visualization styles, such as donut charts, tables, and bar graphs.
     
- - 🔗 Connect our dataset (in the S3 bucket) to Amazon QuickSight.
-    
- - 📊 Create a variety graphs, charts and analysis using QuickSight.
-
-       1. Visualise a catalogue of TV/movies by release year, list category and added date.
-   
-       2. Experiment with different visualisation styles - for example, donut, table or bar graphs.
-
- - 🏆 Publish a dashboard full of insights into our dataset!
+- 🏆 **Publish** a comprehensive dashboard with insights.
 
 ![architecture-diagram](https://github.com/user-attachments/assets/8a0df195-0a4b-4d78-a806-b8167cae5ded)
 
+## Cleanup
 
-I have cleared all the resources used in this project to avoid any pricing alerts. 
-  
-    1. Terminated Quicksight account
-    
-    2. Deleted S3 bucket
+To avoid unexpected charges, I have terminated all resources used in this project:
 
-For detailed documentation, please follow this link:
+1. **Terminated** the QuickSight account.
+2. **Deleted** the S3 bucket.
+
+For detailed documentation, please refer :
 [Documentation of the steps followed with relevant screenshots](https://github.com/Rupam-1/AWS-Project1---Visualize-data-with-QuickSight/blob/24c09fc0bc1985e338430b9da5123af543f3fe62/Documentation%20of%20the%20steps%20followed%20with%20relevant%20screenshots.pdf)
    
-Thanks for reading this project. 
-Wishing a great day ahead...
+## Contribution
+
+Feel free to contribute by opening issues or submitting pull requests. Your feedback and suggestions are appreciated.
+
+## Contact
+
+For any questions or inquiries, please email me at [patwarirupam@gmail.com](mailto:patwarirupam@gmail.com)
+
+Thank you for visiting this project. Have a great day ahead!
